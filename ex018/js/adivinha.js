@@ -20,4 +20,4 @@ function jogar() {
         res.innerHTML += `<p><strong>PARABÉNS!</strong> Você acertou! Eu tinha sorteado o valor ${computador}!</p>`
         document.getElementById('botao').style.visibility = 'hidden'
     }
-}
+}''
