@@ -4,7 +4,12 @@ function contar() {
     saida.innerHTML += `<h2>Contagem Regressiva de 10 a 1</h2>`
     let cont = 10
     while (cont >= 1) {
+        if (cont % 2 == 0) {
+        }
+        else {
+        console.log(cont);
         saida.innerHTML += ` ${cont} &#x1F449;`
+        }   
         cont -- // Corresponde a cont = cont - 1
     }
     saida.innerHTML += ` &#x1F3C1;`
