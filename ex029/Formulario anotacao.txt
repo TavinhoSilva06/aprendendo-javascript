@@ -1,0 +1,11 @@
+Crie um formulário de cadastro de pessoas 
+- Título
+- Nome 
+- Endereço
+- Idade
+- 2 botões ( salvar e limpar )
+
+
+- Quando clicar no botão SALVAR, aparecer um ALERT ( nome, endereço e idade que a pessoa digitou )
+
+- Quando clicar no botão LIMPAR, remover conteúdo ( nome, endereço e idade )
